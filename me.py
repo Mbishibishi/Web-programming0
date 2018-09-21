@@ -1,4 +1,4 @@
 #using python3
 def Greetings(name = None):
-    #gives back a string
+    #returns a string answer
     return 'hello ' + name + '!'
